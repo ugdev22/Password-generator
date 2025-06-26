@@ -1,2 +1,2 @@
 # Password-generator
-✅ Generate secure passwords instantly  ✅ Toggle options:  Uppercase letters  Lowercase letters  Numbers  Symbols  ✅ Adjustable password length (via slider or input box)  ✅ Copy-to-clipboard functionality  ✅ Fully responsive and dark-themed UI  ✅ Built with pure HTML, CSS, and JavaScript (no libraries)
+A stylish and customizable password generator built using HTML, CSS, and JavaScript. This tool helps users generate strong and secure passwords based on selected options like uppercase, lowercase, numbers, and symbols. Inspired by modern neon-dark UI designs.
